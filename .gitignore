@@ -1,0 +1,5 @@
+.vagrant/
+setup/join-command
+src/*
+!src/.gitkeep
+.DS_Store
