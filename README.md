@@ -1,4 +1,4 @@
-# Lcoal Kubernetes Setup
+# Local Kubernetes Setup
 
 Multi node Kubernetes cluster setup with [kube-prometheus-stack](https://github.com/prometheus-operator/kube-prometheus) for local development.
 
