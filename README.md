@@ -8,8 +8,6 @@ Make sure you have [VirtualBox](https://www.virtualbox.org/), [Vagrant](https://
 
 ### Usage
 
-_Run the following commands inside the `local` directory._
-
 Start VM:
 
 ```sh
